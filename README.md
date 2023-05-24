@@ -12,9 +12,9 @@
     - Drive meaningful insights (at least 10 different charts, 5 of them are unique).
     - Draw a subplot using the previous charts.
     - Apply chart format include:
-    - Choose a specific style for your charts.
-    - Apply one color palette from your choice on all charts.
-    - Use title, x and y labels, font size, figure size, legends
+        - Choose a specific style for your charts.
+        - Apply one color palette from your choice on all charts.
+        - Use title, x and y labels, font size, figure size, legends
 - Use pandas profiling.
 - Report your final conclusion and findings in one page (readme markdown file).
     - Team members.
